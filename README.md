@@ -27,6 +27,7 @@ GIVEN a command-line application that accepts user input:
 https://anuur7.github.io/Track-Employee-SQL/
 
 # Link for recording: 
+https://drive.google.com/file/d/1kkYhmTNNqmxlcdHal40U1Qd-J65vJleV/view?usp=sharing
 
 
 # Application image:
