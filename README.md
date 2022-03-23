@@ -30,6 +30,3 @@ https://anuur7.github.io/Track-Employee-SQL/
 https://drive.google.com/file/d/1kkYhmTNNqmxlcdHal40U1Qd-J65vJleV/view?usp=sharing
 
 
-# Application image:
-![alt text](images/.png)
-
